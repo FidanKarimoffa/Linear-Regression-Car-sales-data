@@ -31,12 +31,8 @@ To run this project, we will need to install the following dependencies:
 - Matplotlib
 - Seaborn
 
-You can install the required libraries using pip:
 
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-
-## Analysis and Methodology
+# Analysis and Methodology
 ## Data Preprocessing:
 
 ## Handle missing values.
